@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Manuel Weiss"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hi there! I am a PhD student working on Evolutionary Meta-Learning at the Technical University Berlin. My work has been funded by the Science of Intelligence Cluster and supervised by Henning Sprekeler. "
+  bio              : "Hi there! I am a PhD student working on Legged Robotic Control at the Berlin University of Applied Sciences and Technology and the Leibniz University Hannover. My work has been funded by the DFG - German Research Foundation and supervised by Ivo Boblan and Thomas Seel. "
   location         : "BLN, MUC"
   email            :
   links:
@@ -128,6 +128,12 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      # url: "https://linkedin.com/"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar-square"
+      url: "https://scholar.google.com/citations?user=rVmmxF8AAAAJ&hl=de"
 
 # Site Footer
 footer:
