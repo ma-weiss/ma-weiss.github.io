@@ -14,7 +14,7 @@ name                     : &name "Manuel Weiss"
 description              : &description "Hi there! I am a PhD student working on Legged Robotic Control at the Berlin University of Applied Sciences and Technology and the Leibniz University Hannover. My work has been funded by the DFG - German Research Foundation and supervised by Ivo Boblan and Thomas Seel."
 url                      : "manuelweiss.info" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : # "academicpages/academicpages.github.io"
+repository               : https://ma-weiss.github.io# "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
