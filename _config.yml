@@ -24,9 +24,9 @@ author:
   avatar           : "profile_digit.png"
   name             : "Manuel Weiss"
   pronouns         : # example: "she/her"  
-  bio              : "Robotics, Data Driven Control <br> @BHT @LUH"
+  bio              : 'Robotics, Data Driven Control <br> @<a href="https://www.bht-berlin.de/">BHT</a> @<a href="https://www.uni-hannover.de/de/">LUH</a>'
   location         : "BLN, BNE, MUC"
-  employer         : '<a href="https://www.bht-berlin.de/">BHT Berlin</a>, <a href="https://www.uni-hannover.de/de/">LU Hannover</a>' #"<a href="https://www.bht-berlin.de/">BHT Berlin</a>, LU Hannover" #"<a href="https://www.bht-berlin.de">BHT Berlin</a>, LU Hannover"
+  employer         : '<a href="https://www.bht-berlin.de/">BHT</a>, <a href="https://www.uni-hannover.de/de/">LUH</a>' #"<a href="https://www.bht-berlin.de/">BHT Berlin</a>, LU Hannover" #"<a href="https://www.bht-berlin.de">BHT Berlin</a>, LU Hannover"
   uri              : "https://www.manuelweiss.info" # URL
   email            : "none@example.org" 
 
