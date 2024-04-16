@@ -16,7 +16,7 @@ Recent research interests include:
 - Human-Robot Interaction
 
 ## Recent posts:
-======
+
 {% for post in site.posts limit:3 %}
   {% include archive-single.html %}
 {% endfor %}
