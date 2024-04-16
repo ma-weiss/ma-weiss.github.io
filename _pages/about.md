@@ -15,7 +15,8 @@ Recent research interests include:
 - Reinforcement Learning
 - Human-Robot Interaction
 
-Recent posts:
+## Recent posts:
+======
 {% for post in site.posts limit:3 %}
   {% include archive-single.html %}
 {% endfor %}
