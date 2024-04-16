@@ -26,8 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Robotics, Data Driven Control <br> @BHT @LUH"
   location         : "BLN, BNE, MUC"
-  employer         : "BHT Berlin, LUH Hannover"
-  uri              : # URL
+  employer         : "BHT Berlin, LU Hannover"
+  uri              : "https://www.manuelweiss.info" # URL
   email            : "none@example.org" 
 
   # Academic websites
