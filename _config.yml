@@ -21,10 +21,10 @@ repository               : "ma-weiss.github.io" # "academicpages/academicpages.g
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_digit.png"
   name             : "Manuel Weiss"
   pronouns         : # example: "she/her"  
-  bio              : "Robotics, Data Driven Control \n@BHT @LUH"
+  bio              : "Robotics, Data Driven Control \r @BHT @LUH"
   location         : "BLN, BNE, MUC"
   employer         : "BHT Berlin, LUH Hannover"
   uri              : # URL
