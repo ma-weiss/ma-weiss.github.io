@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am a PhD student working on Legged Robotic Control at the Berlin University of Applied Sciences and Technology and the Leibniz University Hannover. My work has been funded by the DFG - German Research Foundation and supervised by Ivo Boblan and Thomas Seel.
+Hi there! I am a PhD student working on Legged Robotic Control at the [Complient Robotics Lab](https://www.biorobotiklabor.de) at Berlin University of Applied Sciences and Technology and the Leibniz University Hannover. My work has been funded by the DFG - German Research Foundation and supervised by Ivo Boblan and Thomas Seel [IMES Leibniz University Hannover](https://www.imes.uni-hannover.de/de/).
 
 
 
