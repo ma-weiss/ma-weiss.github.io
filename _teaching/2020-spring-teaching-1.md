@@ -1,0 +1,11 @@
+---
+title: "Pneumatic and Soft Robotics"
+collection: teaching
+type: "Graduate course"
+permalink: /teaching/2020-fall-teaching-1
+venue: "Berlin University of Applied Sciences and Technology, Department of Electrical Engineering"
+date: 2020-10-01
+location: "Berlin, Germany"
+---
+
+This course is designed to provide students with a comprehensive understanding of the principles and applications of pneumatic and soft robotics. 
