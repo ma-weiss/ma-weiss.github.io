@@ -8,4 +8,4 @@ date: 2022-4-01
 location: "Berlin, Germany"
 ---
 
-This course is designed to provide students with a comprehensive understanding of the principles and applications of pneumatic and soft robotics. 
+<!-- This course is designed to provide students with a comprehensive understanding of the principles and applications of pneumatic and soft robotics.  -->
