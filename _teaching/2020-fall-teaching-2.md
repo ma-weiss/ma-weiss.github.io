@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate Lab Course"
 permalink: /teaching/2020-fall-teaching-2
 venue: "Berlin University of Applied Sciences and Technology, Department of Electrical Engineering"
-date: 2020-10-01
+date: 2020-9-01
 location: "Berlin, Germany"
 ---
 
