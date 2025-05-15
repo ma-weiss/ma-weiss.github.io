@@ -12,6 +12,7 @@ Hi there! I am a PhD student working on Legged Robotic Control at the [Complient
 
 Recent research interests include:
 - Legged Robotic Control
+- Learning Control
 - Reinforcement Learning
 - Human-Robot Interaction
 
