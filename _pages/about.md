@@ -18,7 +18,8 @@ Recent research interests include:
 
 
 ## News:
-- <b>(18.07.2025) Talk CODIT:</b> Online learning CTC  
+- <b>(14.01.2026) IEEE Robotics and Automation Letters:</b> LNN CTC [IEEE](https://ieeexplore.ieee.org/abstract/document/11352810)
+- <b>(18.07.2025) Talk CODIT:</b> Online learning CTC  [IEEE](https://ieeexplore.ieee.org/abstract/document/11321475)
 - <b>(15.12.2024) Talk ICARCV:</b> GP-ILC Velocity Tracking for a Quadruped Robot [IEEE](https://ieeexplore.ieee.org/abstract/document/10821620)
 - <b>(11.09.2024) Biomechanics: </b>Pseudo-Rigid-Body Model [MDPI](https://www.mdpi.com/2673-7078/4/3/40)
 - <b>(28.06.2024) Talk ECC:</b> ILC Velocity Tracking for a Quadruped Robot [IEEE](https://ieeexplore.ieee.org/abstract/document/10590932)
