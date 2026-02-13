@@ -1,10 +1,9 @@
 ---
-title: "Intelligent Actuators"
+title: "Fundamentals of robotics"
 collection: teaching
-type: "Graduate Lab Course"
-permalink: /teaching/2020-fall-teaching-2
+type: "Underraduate course"
+permalink: /teaching/ROB1
 venue: "Berlin University of Applied Sciences and Technology, Department of Electrical Engineering"
-date: 2020-9-01
+# date: 2023-9-01
 location: "Berlin, Germany"
 ---
-
