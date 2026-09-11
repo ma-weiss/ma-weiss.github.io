@@ -1,0 +1,21 @@
+/* ==========================================================================
+   Site-specific styles (additions on top of the Academic Pages theme)
+   ========================================================================== */
+
+/* Centered figure with a capped media width, e.g. project teasers */
+figure.figure-center {
+  justify-content: center;
+  text-align: center;
+
+  img,
+  video {
+    width: 100%;
+    max-width: 450px;
+    margin-bottom: 1em;
+    border-radius: $border-radius;
+  }
+
+  figcaption {
+    width: 100%;
+  }
+}

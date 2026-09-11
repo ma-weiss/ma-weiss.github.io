@@ -1,27 +1,10 @@
-# main links links
+# Top navigation menu
 main:
-
   - title: "Projects"
     url: /projects/
 
-  - title: "CV"
-    url: /files/CV_Manuel_Weiss.pdf
-
   - title: "Publications"
-    url: https://scholar.google.com/citations?user=rVmmxF8AAAAJ&hl=de #/publications/
-
-  # - title: "Talks"
-  #   url: /talks/    
+    url: /publications/
 
   - title: "Teaching"
-    url: /teaching/    
-    
-
-        
-  # - title: "Blog"
-  #   url: /year-archive/
-    
-
-    
-  # - title: "Guide"
-  #   url: /markdown/
+    url: /teaching/

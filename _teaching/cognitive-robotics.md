@@ -1,15 +1,13 @@
 ---
-title: "Cogitive Robotics"
+title: "Cognitive Robotics"
 collection: teaching
 type: "Undergraduate Lab Course"
-permalink: /teaching/Cogitive-Robotics
 venue: "Berlin University of Applied Sciences and Technology, Department of Electrical Engineering"
-date: 2021-9-01
+date: 2021-09-01
 location: "Berlin, Germany"
----
-
-
-
+excerpt: ""  # the page body is only a table; keep it out of the teaching list
+redirect_from:
+  - /teaching/Cogitive-Robotics
 ---
 
 | Year | Semester | Format |

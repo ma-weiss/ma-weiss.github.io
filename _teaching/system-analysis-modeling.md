@@ -1,9 +1,10 @@
 ---
-title: "Fundamentals of robotics"
+title: "System Analysis and System Modeling"
 collection: teaching
-type: "Underraduate course"
-permalink: /teaching/ROB1
+type: "Undergraduate Lab Course"
 venue: "Berlin University of Applied Sciences and Technology, Department of Electrical Engineering"
-# date: 2023-9-01
+date: 2022-09-01
 location: "Berlin, Germany"
+redirect_from:
+  - /teaching/SASM
 ---
