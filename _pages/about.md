@@ -14,6 +14,7 @@ Recent research interests include:
 - Legged Robot Control
 - Learning Control
 - Reinforcement Learning
+- Physics structured ML
 - Human-Robot Interaction
 
 ## News
