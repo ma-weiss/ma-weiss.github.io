@@ -11,8 +11,6 @@ My research explores inductive biases in machine learning as applied to robotics
 
 A full list of my papers is on the [Publications](/publications/) page.
 
----
-
 ## Using Lagrangian Neural Networks for Computed Torque Control
 
 <figure class="figure-center">
@@ -27,8 +25,6 @@ By embedding the learned model inside the feedback-linearization loop (LNN-CTC),
 An online learning extension continuously updates the LNN during operation, enabling rapid adaptation to dynamic changes such as added payloads. The approach achieves fast gravity compensation, data-efficient learning, and real-time performance without prior model knowledge, making it well suited for robots operating under uncertain and changing conditions.
 
 Papers: [[RA-L 2026](https://doi.org/10.1109/LRA.2026.3653326)] [[CoDIT 2025](https://doi.org/10.1109/CoDIT66093.2025.11321475)]
-
----
 
 ## Real-Time Learning Control for Quadruped Robot Velocity Tracking
 
